@@ -56,8 +56,9 @@ body{
     cursor: pointer;
     margin: 12px 0;
  }
- .button :hover{
-    background-color: #505a51;
+ .button:hover{
+    background-color: #e4f8e6;
+    transition: .5s;
  }
  .login{
    margin-left: 5px;
